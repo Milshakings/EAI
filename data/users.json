@@ -1,0 +1,18 @@
+[
+  {
+    "id": "u-001",
+    "rut": "12.345.678-9",
+    "nombre": "Camila Rojas",
+    "password": "pie2026",
+    "rol": "docente_pie",
+    "cargo": "Educadora Diferencial PIE"
+  },
+  {
+    "id": "u-002",
+    "rut": "9.876.543-2",
+    "nombre": "Marcelo Soto",
+    "password": "utp2026",
+    "rol": "coordinador_utp",
+    "cargo": "Jefe UTP / Coordinación PIE"
+  }
+]

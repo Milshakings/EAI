@@ -1,0 +1,15 @@
+{
+  "establecimientoId": "demo-colegio-01",
+  "plan": "free",
+  "limiteMensual": 5,
+  "mesActual": "2026-10",
+  "generadosEsteMes": 1,
+  "licenciaActivada": null,
+  "fechaActivacion": null,
+  "graciaHasta": null,
+  "contacto": {
+    "email": "ventas@evaluaai.cl",
+    "whatsapp": "+56 9 0000 0000"
+  },
+  "logActivaciones": []
+}
